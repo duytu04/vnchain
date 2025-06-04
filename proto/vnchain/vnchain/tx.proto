@@ -1,0 +1,7 @@
+syntax = "proto3";
+package vnchain.vnchain;
+
+option go_package = "vnchain/x/vnchain/types";
+
+// Msg defines the Msg service.
+service Msg {}
